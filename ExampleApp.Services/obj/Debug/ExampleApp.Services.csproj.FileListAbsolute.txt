@@ -1,0 +1,16 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ExampleApp.Services.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ExampleApp.Services.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\Example.DTO.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ExampleApp.Abstractions.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ServiceStack.Client.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ServiceStack.Text.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ExampleApp.Abstractions.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\Example.DTO.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\obj\Debug\ExampleApp.Services.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\obj\Debug\ExampleApp.Services.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\obj\Debug\ExampleApp.Services.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\obj\Debug\ExampleApp.Services.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Services\bin\Debug\ExampleApp.Services.dll.mdb

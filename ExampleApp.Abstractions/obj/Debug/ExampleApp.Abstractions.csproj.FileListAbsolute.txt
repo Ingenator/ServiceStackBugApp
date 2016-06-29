@@ -1,0 +1,15 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\bin\Debug\ExampleApp.Abstractions.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\bin\Debug\ExampleApp.Abstractions.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\bin\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\bin\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\bin\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\bin\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\obj\Debug\ExampleApp.Abstractions.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\ExampleApp\ExampleApp.Abstractions\bin\Debug\ExampleApp.Abstractions.dll.mdb
